@@ -18,5 +18,7 @@ v.2.0
 - [x] aplikacja obsluguje tylko kobiety pelnoletnie
 - [x] poprawiona walidacja dotyczaca wyboru plci
 
+v.3.0
+- [ ] obsluga uzytkownikow z USA i EUROPY (wiek)
 
-Stworzono z <3 na [Zobacz wiecej na:](http://www.wsb.pl)
+Stworzono z <3 na [Uczelni](http://www.wsb.pl)
