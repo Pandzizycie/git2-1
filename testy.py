@@ -8,4 +8,4 @@ if wiek >= 21 and wiek <= 65:
 elif wiek > 65:
     print("Jesteś już za stary na alkohol")
 else:
-    exit('jesteś za młody!')
+    exit('jesteś za młody!, w USA wymagamy 21 lat')

@@ -12,3 +12,4 @@ v.1.0
 
 v.1.1
 - [x] zwiekszono limit wieku do 65
+- [x] wiek dla doroslych USA
