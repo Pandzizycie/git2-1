@@ -15,9 +15,7 @@ v.1.1
 - [x] wiek dla doroslych w USA
 
 v.2.0
-- [x] aplikacja obsluguje tylko kobiety pelnoletnie:)
-
-v.2.1
+- [x] aplikacja obsluguje tylko kobiety pelnoletnie
 - [x] poprawiona walidacja dotyczaca wyboru plci
 
 
