@@ -42,3 +42,5 @@ elif lok == 'us':
         exit("Wybrano nieobslugiwana wartosc. Aplikacja jest tylko dla pelnoletnich kobiet. Sprobuj ponownie")
 else:
     exit("Wybrano nieobslugiwana wartosc. Aplikacja jest tylko dla mieszkancow Europy lub Stanow Zjednoczonych. Sprobuj ponownie")
+
+print("hellooo")
